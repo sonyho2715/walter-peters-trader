@@ -17,7 +17,7 @@ https://bg-trader-dashboard.vercel.app
 
 ### Latest Deployment
 ```
-https://bg-trader-dashboard-c2qekyyud-sony-hos-projects.vercel.app
+https://bg-trader-dashboard-c2c4zp0wz-sony-hos-projects.vercel.app
 ```
 
 ### GitHub Repository
