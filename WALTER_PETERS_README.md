@@ -3,8 +3,8 @@
 ## User Information
 
 **Name:** Walter Peters
-**Referral Code:** A3k16Uam5S00
-**Referral Link:** https://dsj927.com/?code=A3k16Uam5S00
+**Referral Code:** C5jnncnd6
+**Referral Link:** https://dsj927.com/?code=C5jnncnd6
 
 ## About This Installation
 
@@ -42,7 +42,7 @@ This is a customized instance of the BG Wealth Sharing AI Trading Platform confi
 
 3. **Environment Configuration**
    The `.env.local` file is already configured with Walter's credentials:
-   - User Code: A3k16Uam5S00
+   - User Code: C5jnncnd6
    - Database: bgwealth_walter_db
    - Custom JWT secret for security
 
@@ -75,8 +75,8 @@ vercel --prod
 When deploying, make sure to set these environment variables:
 
 - `USER_NAME=Walter Peters`
-- `USER_CODE=A3k16Uam5S00`
-- `REFERRAL_LINK=https://dsj927.com/?code=A3k16Uam5S00`
+- `USER_CODE=C5jnncnd6`
+- `REFERRAL_LINK=https://dsj927.com/?code=C5jnncnd6`
 - `DB_HOST=<your-production-db-host>`
 - `DB_NAME=bgwealth_walter_db`
 - `DB_USER=<your-db-user>`
@@ -87,8 +87,8 @@ When deploying, make sure to set these environment variables:
 
 Once deployed, users can access Walter Peters' dashboard through:
 
-1. **Direct Link:** https://dsj927.com/?code=A3k16Uam5S00
-2. **Main Platform:** Navigate to the platform and enter code: A3k16Uam5S00
+1. **Direct Link:** https://dsj927.com/?code=C5jnncnd6
+2. **Main Platform:** Navigate to the platform and enter code: C5jnncnd6
 
 ## Features
 
@@ -123,5 +123,5 @@ MIT
 ---
 
 **Generated for Walter Peters**
-**Code:** A3k16Uam5S00
+**Code:** C5jnncnd6
 **Date:** November 15, 2025

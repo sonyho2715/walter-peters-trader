@@ -4,7 +4,7 @@
 
 **Deployment Date:** November 15, 2025
 **Client:** Walter Peters
-**Referral Code:** A3k16Uam5S00
+**Referral Code:** C5jnncnd6
 
 ---
 
@@ -33,13 +33,13 @@ https://github.com/sonyho2715/walter-peters-trader
 
 ✅ **User Configuration**
 - `USER_NAME` = "Walter Peters"
-- `USER_CODE` = "A3k16Uam5S00"
-- `REFERRAL_LINK` = "https://dsj927.com/?code=A3k16Uam5S00"
+- `USER_CODE` = "C5jnncnd6"
+- `REFERRAL_LINK` = "https://dsj927.com/?code=C5jnncnd6"
 
 ✅ **Client Variables (Vite)**
 - `VITE_USER_NAME` = "Walter Peters"
-- `VITE_USER_CODE` = "A3k16Uam5S00"
-- `VITE_REFERRAL_LINK` = "https://dsj927.com/?code=A3k16Uam5S00"
+- `VITE_USER_CODE` = "C5jnncnd6"
+- `VITE_REFERRAL_LINK` = "https://dsj927.com/?code=C5jnncnd6"
 
 ✅ **Server Configuration**
 - `NODE_ENV` = "production"
@@ -76,7 +76,7 @@ walter-peters-trader/
 ## 🔗 Setting Up the Referral Link
 
 ### Current Status
-The referral link is configured as: `https://dsj927.com/?code=A3k16Uam5S00`
+The referral link is configured as: `https://dsj927.com/?code=C5jnncnd6`
 
 ### To Make This Link Active
 
@@ -98,7 +98,7 @@ The referral link is configured as: `https://dsj927.com/?code=A3k16Uam5S00`
 
 You can also use the current production URL with the code parameter:
 ```
-https://bg-trader-dashboard.vercel.app/?code=A3k16Uam5S00
+https://bg-trader-dashboard.vercel.app/?code=C5jnncnd6
 ```
 
 ---
@@ -162,7 +162,7 @@ curl https://bg-trader-dashboard.vercel.app
 ### 2. Test with Referral Code
 Visit in browser:
 ```
-https://bg-trader-dashboard.vercel.app/?code=A3k16Uam5S00
+https://bg-trader-dashboard.vercel.app/?code=C5jnncnd6
 ```
 
 ### 3. Test API Health (requires backend)
