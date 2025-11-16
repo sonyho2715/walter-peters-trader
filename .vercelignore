@@ -1,0 +1,18 @@
+# Server files (not needed for frontend deployment)
+server/
+
+# Development files
+*.log
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
